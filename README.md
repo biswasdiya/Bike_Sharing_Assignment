@@ -8,4 +8,4 @@ The case study focuses on Machine Learning mainly, to understand the data and cl
 
 
 ## Contact
-Created by [@biswasdiya](https://github.com/biswasdiya) - feel free to contact me!
+Created by [@Diya Biswas](https://github.com/biswasdiya) - feel free to contact me!
